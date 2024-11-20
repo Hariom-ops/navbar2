@@ -1,0 +1,32 @@
+
+body{
+    margin: 0;
+}
+.main{
+    margin: 30px;
+}
+
+.navbar ul{     
+    list-style: none;
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding:70px;
+    display: inline;
+    text-align: center;
+
+
+}
+.navbar a:hover{
+    background-color: hsl(0, 90%, 57%);
+}
+.navbar li{
+    float:left;
+}
+
